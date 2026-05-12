@@ -2,17 +2,19 @@
 
 ### 1. How to compile
 To compile:
-    $ make
+    ```make```
 
 To clean up compiled binaries:
-    $ make clean
+    ```make clean```
 
 To compile manually:
+```
     # Compile Server
-    $ gcc -o server server.c -pthread -lrt
+    gcc -o server server.c -pthread -lrt
 
     # Compile Client
-    $ gcc -o client client.c
+    gcc -o client client.c
+```
 
 ### 2. Example commands
 a. Rolling the Dice:
