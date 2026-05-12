@@ -1,4 +1,4 @@
-Operating Systems - Project
+# Operating Systems - Dice Race Game
 
 ### 1. How to compile
 To compile:
